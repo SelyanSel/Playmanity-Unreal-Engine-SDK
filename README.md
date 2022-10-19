@@ -53,7 +53,7 @@ You will also need VaRest plugin, its free:
 ## Roadmap
 
 - [x] Sign In
-- [ ] Sign Up
+- [x] Sign Up
 - [ ] Ads
 
 See the [open issues](https://github.com/Xp3rtA/Playmanity-Unreal-Engine-SDK/issues) for a full list of proposed features (and known issues).
