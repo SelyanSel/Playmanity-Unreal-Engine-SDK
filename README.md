@@ -49,6 +49,10 @@ You will also need VaRest plugin, its free:
    ```
 3. Restart Unreal Engine and activate the PlaymanitySDK plugin. And its done!
 
+## Documentation
+
+See the full documentation on the wiki section: https://github.com/Xp3rtA/Playmanity-Unreal-Engine-SDK/wiki
+
 <!-- ROADMAP -->
 ## Roadmap
 
