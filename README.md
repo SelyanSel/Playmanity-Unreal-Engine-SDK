@@ -59,6 +59,8 @@ See the full documentation on the wiki section: https://github.com/Xp3rtA/Playma
 - [x] Sign In
 - [x] Sign Up
 - [ ] Ads
+- [ ] Save player credentials / autologin
+- [ ] Ue 5.0 support
 
 See the [open issues](https://github.com/Xp3rtA/Playmanity-Unreal-Engine-SDK/issues) for a full list of proposed features (and known issues).
 
